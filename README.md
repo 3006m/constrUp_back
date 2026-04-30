@@ -1,6 +1,6 @@
 # constrUp Backend
 
-API RESTful desenvolvida em Laravel para gerenciamento de produtos.
+API RESTful desenvolvida em Laravel para teste técnico.
 
 ## Tecnologias
 - PHP 8.3
